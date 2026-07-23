@@ -7,6 +7,8 @@
 >
 > **Voice Builder will no longer be accessible after August 31, 2026.**
 >
+> For details about the service changes, timeline, and information for existing Voice Builder users, please see the [official announcement](https://supertone.ai).
+>
 > Thank you to everyone who has used, contributed to, and supported Supertonic.
 
 <p align="center">
